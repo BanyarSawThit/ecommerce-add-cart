@@ -1,4 +1,4 @@
-# Django Shopping Cart System (Based on GeeksforGeeks Tutorial)
+# Django Shopping Cart System (Based on (Based on [GeeksforGeeks Tutorial](https://www.geeksforgeeks.org/how-to-add-cart-in-a-web-page-using-django/))
 
 ## Overview
 This project is a simple shopping cart system built using Django, following the tutorial from GeeksforGeeks. It demonstrates how to create and manage a cart using Django's built-in database without relying on JavaScript, AJAX, or JSON-based storage. The approach focuses on simplicity while utilizing Django's session management and model-based cart storage.
